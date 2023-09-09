@@ -1,0 +1,100 @@
+﻿Project Name,Project Type,Project Manager,Location,Department, Project Cost ,Complexity,Status,,Physical Completion%,Cost Completion %,Phase,Year,Start Date,End Date
+MML-01,Girder Construction,Y.N.Kapoor,Dahisar - Kamraj Nagar,Civil,"36,48,61,500.00",High,In - Progress,0.77,77,10,Phase 4 - Implement,2021,02-01-2021,02-01-2024
+MML-02,Procurement,Shailja Dixit,Andheri-Bandra,Electrical,"4,01,88,350.00",High,Cancelled,0.8,80,64,Phase 2 - Develop,2021,03-01-2021,03-01-2023
+MML-03,Procurement,K.S.Gupta,Dahisar - Kamraj Nagar,S&T,"42,85,48,300.00",High,Completed,1,100,51,Phase 4 - Implement,2021,03-01-2021,03-01-2025
+MML-04,Procurement,Ajay Kumar Agarwal,Dahisar-Andheri,Track,"5,28,58,640.00",High,Cancelled,0.75,75,56,Phase 5 - Measure,2021,03-01-2021,03-01-2023
+MML-05,Installation,Shailja Dixit,Dahisar-Andheri,Electrical,"5,78,56,010.00",High,Completed,1,100,58,Phase 1 - Explore,2021,03-01-2021,03-01-2023
+MML-06,Procurement,Ajay Kumar Agarwal,Andheri-Bandra,Track,"3,32,60,310.00",Medium,In - Progress,0.77,77,20,Phase 3 - Plan,2021,03-01-2021,03-01-2023
+MML-07,Procurement,K.S.Gupta,Dahisar - Kamraj Nagar,S&T,"45,57,60,600.00",High,Completed,1,100,45,Phase 5 - Measure,2021,04-01-2021,04-01-2025
+MML-08,Installation,K.S.Gupta,Andheri-Bandra,S&T,"31,90,00,900.00",High,Completed,1,100,54,Phase 1 - Explore,2021,04-01-2021,04-01-2025
+MML-09,Testing and Commissioning,Shailja Dixit,Dahisar - Kamraj Nagar,Electrical,"3,44,26,490.00",Low,Completed,1,100,42,Phase 2 - Develop,2021,05-01-2021,05-01-2023
+MML-10,Train Manufacturing,Vijay Sharma,Kamraj Nagar - DN Nagar,Rolling Stock,"34,75,27,500.00",Low,On - Hold,0.9,90,60,Phase 4 - Implement,2021,05-01-2021,05-01-2025
+MML-11,Girder Construction,Y.N.Kapoor,Kamraj Nagar - DN Nagar,Civil,"35,08,17,300.00",High,On - Hold,0.75,75,29,Phase 5 - Measure,2021,05-01-2021,05-01-2024
+MML-12,Installation,Shailja Dixit,Andheri-Bandra,Electrical,"2,53,41,020.00",Medium,In - Progress,0.93,93,65,Phase 3 - Plan,2021,05-01-2021,05-01-2023
+MML-13,Testing and Commissioning,K.S.Gupta,Kamraj Nagar - DN Nagar,S&T,"51,30,01,600.00",Low,Cancelled,0.73,73,34,Phase 4 - Implement,2021,05-01-2021,05-01-2025
+MML-14,Train Testing,Vijay Sharma,Kamraj Nagar - DN Nagar,Rolling Stock,"59,53,51,200.00",Medium,Cancelled,0.89,89,52,Phase 2 - Develop,2021,06-01-2021,06-01-2025
+MML-15,Procurement,Shailja Dixit,Dahisar - Kamraj Nagar,Electrical,"4,17,07,100.00",High,Cancelled,0.72,72,48,Phase 5 - Measure,2021,06-01-2021,06-01-2023
+MML-16,Installation,K.S.Gupta,Kamraj Nagar - DN Nagar,S&T,"34,72,98,600.00",Medium,Completed,1,100,44,Phase 4 - Implement,2021,07-01-2021,07-01-2025
+MML-17,Procurement,Shailja Dixit,Kamraj Nagar - DN Nagar,Electrical,"3,47,87,940.00",Medium,Cancelled,0.82,82,62,Phase 2 - Develop,2021,07-01-2021,07-01-2023
+MML-18,Architecture,Y.N.Kapoor,Kamraj Nagar - DN Nagar,Civil,"44,13,44,900.00",High,Completed,1,100,32,Phase 4 - Implement,2021,08-01-2021,08-01-2024
+MML-19,Girder Construction,Y.N.Kapoor,Kamraj Nagar - DN Nagar,Civil,"34,40,22,500.00",High,In - Progress,0.91,91,45,Phase 3 - Plan,2021,09-01-2021,09-01-2024
+MML-20,Procurement,K.S.Gupta,Dahisar-Andheri,S&T,"29,00,35,500.00",High,In - Progress,0.84,84,63,Phase 1 - Explore,2021,10-01-2021,10-01-2025
+MML-21,Finishing,Y.N.Kapoor,Dahisar-Andheri,Civil,"55,05,12,300.00",High,Completed,1,100,30,Phase 3 - Plan,2021,10-01-2021,10-01-2024
+MML-22,Girder Construction,Y.N.Kapoor,Dahisar - Kamraj Nagar,Civil,"25,48,47,100.00",Low,Cancelled,0.78,78,34,Phase 5 - Measure,2021,11-01-2021,11-01-2024
+MML-23,Station Girder Construction,Y.N.Kapoor,Dahisar-Andheri,Civil,"58,69,64,300.00",High,Completed,1,100,56,Phase 3 - Plan,2021,12-01-2021,12-01-2024
+MML-24,Train Manufacturing,Vijay Sharma,Dahisar-Andheri,Rolling Stock,"59,74,81,500.00",Low,Cancelled,0.86,86,52,Phase 5 - Measure,2022,01-01-2022,01-01-2026
+MML-25,Installation,Ajay Kumar Agarwal,Andheri-Bandra,Track,"3,81,48,570.00",Low,Cancelled,0.84,84,36,Phase 5 - Measure,2022,02-01-2022,02-01-2024
+MML-26,Testing and Commissioning,K.S.Gupta,Kamraj Nagar - DN Nagar,S&T,"28,71,38,600.00",Low,In - Progress,0.86,86,46,Phase 2 - Develop,2022,03-01-2022,03-01-2026
+MML-27,Procurement,K.S.Gupta,Dahisar - Kamraj Nagar,S&T,"32,01,90,700.00",High,Cancelled,0.77,77,44,Phase 4 - Implement,2022,03-01-2022,03-01-2026
+MML-28,Girder Construction,Y.N.Kapoor,Andheri-Bandra,Civil,"56,09,77,500.00",High,Completed,1,100,78,Phase 3 - Plan,2022,04-01-2022,04-01-2025
+MML-29,Procurement,Shailja Dixit,Kamraj Nagar - DN Nagar,Electrical,"5,04,43,060.00",Low,Completed,1,100,51,Phase 1 - Explore,2022,04-01-2022,04-01-2024
+MML-30,Procurement,Shailja Dixit,Dahisar - Kamraj Nagar,Electrical,"2,93,16,850.00",Medium,On - Hold,0.77,77,27,Phase 1 - Explore,2022,04-01-2022,04-01-2024
+MML-31,Procurement,Ajay Kumar Agarwal,Dahisar - Kamraj Nagar,Track,"3,73,09,990.00",Medium,In - Progress,0.77,77,39,Phase 1 - Explore,2022,04-01-2022,04-01-2024
+MML-32,Girder Construction,Y.N.Kapoor,Dahisar - Kamraj Nagar,Civil,"45,02,24,800.00",Medium,In - Progress,0.77,77,32,Phase 5 - Measure,2022,05-01-2022,05-01-2025
+MML-33,Procurement,Ajay Kumar Agarwal,Dahisar-Andheri,Track,"2,45,07,820.00",Medium,On - Hold,0.91,91,67,Phase 5 - Measure,2022,06-01-2022,06-01-2024
+MML-34,Dynamic Testing,Vijay Sharma,Dahisar - Kamraj Nagar,Rolling Stock,"37,18,10,300.00",Low,Cancelled,0.87,87,57,Phase 1 - Explore,2022,06-01-2022,06-01-2026
+MML-35,Procurement,Shailja Dixit,Andheri-Bandra,Electrical,"5,91,34,780.00",Medium,Cancelled,0.74,74,68,Phase 1 - Explore,2022,06-01-2022,06-01-2024
+MML-36,Procurement,Shailja Dixit,Kamraj Nagar - DN Nagar,Electrical,"2,63,10,190.00",Low,Completed,1,100,69,Phase 3 - Plan,2022,07-01-2022,07-01-2024
+MML-37,Station Girder Construction,Y.N.Kapoor,Dahisar - Kamraj Nagar,Civil,"58,59,70,700.00",Medium,In - Progress,0.8,80,55,Phase 4 - Implement,2022,07-01-2022,07-01-2025
+MML-38,Testing and Commissioning,Shailja Dixit,Andheri-Bandra,Electrical,"4,17,28,270.00",High,In - Progress,0.75,75,58,Phase 1 - Explore,2022,07-01-2022,07-01-2024
+MML-39,Depot Equipments,Vijay Sharma,Dahisar-Andheri,Rolling Stock,"42,49,66,800.00",Low,In - Progress,0.89,89,49,Phase 1 - Explore,2022,08-01-2022,08-01-2026
+MML-40,Dynamic Testing,Vijay Sharma,Dahisar - Kamraj Nagar,Rolling Stock,"31,56,31,800.00",Medium,Completed,1,100,54,Phase 3 - Plan,2022,08-01-2022,08-01-2026
+MML-41,Testing and Commissioning,K.S.Gupta,Dahisar-Andheri,S&T,"39,78,10,200.00",Medium,In - Progress,0.79,79,62,Phase 5 - Measure,2022,08-01-2022,08-01-2026
+MML-42,Station Girder Construction,Y.N.Kapoor,Andheri-Bandra,Civil,"27,45,99,900.00",Low,Cancelled,0.88,88,45,Phase 4 - Implement,2022,09-01-2022,09-01-2025
+MML-43,Installation,Shailja Dixit,Andheri-Bandra,Electrical,"3,78,74,730.00",Medium,Cancelled,0.77,77,57,Phase 1 - Explore,2022,09-01-2022,09-01-2024
+MML-44,Train Testing,Vijay Sharma,Andheri-Bandra,Rolling Stock,"44,97,36,400.00",High,Completed,1,100,61,Phase 2 - Develop,2022,10-01-2022,10-01-2026
+MML-45,Procurement,K.S.Gupta,Kamraj Nagar - DN Nagar,S&T,"55,70,83,488.00",Low,In - Progress,0.75,75,41,Phase 4 - Implement,2022,10-01-2022,10-01-2026
+MML-46,Train Manufacturing,Vijay Sharma,Dahisar-Andheri,Rolling Stock,"34,72,53,100.00",Low,Cancelled,0.83,83,30,Phase 3 - Plan,2022,11-01-2022,11-01-2026
+MML-47,Train Manufacturing,Vijay Sharma,Kamraj Nagar - DN Nagar,Rolling Stock,"48,02,42,300.00",High,In - Progress,0.77,77,55,Phase 5 - Measure,2022,11-01-2022,11-01-2026
+MML-48,Girder Construction,Y.N.Kapoor,Andheri-Bandra,Civil,"50,72,09,500.00",Low,On - Hold,0.8,80,67,Phase 4 - Implement,2022,11-01-2022,11-01-2025
+MML-49,Installation,K.S.Gupta,Dahisar-Andheri,S&T,"58,96,88,590.00",Medium,Cancelled,0.88,88,55,Phase 3 - Plan,2022,12-01-2022,12-01-2026
+MML-50,Station Girder Construction,Y.N.Kapoor,Dahisar - Kamraj Nagar,Civil,"46,46,98,800.00",Medium,Completed,1,100,55,Phase 2 - Develop,2022,12-01-2022,12-01-2025
+MML-51,Train Testing,Vijay Sharma,Dahisar - Kamraj Nagar,Rolling Stock,"54,12,53,000.00",Medium,In - Progress,0.8,80,34,Phase 2 - Develop,2023,01-01-2023,01-01-2027
+MML-52,Installation,K.S.Gupta,Dahisar - Kamraj Nagar,S&T,"55,43,76,500.00",Medium,On - Hold,0.77,77,48,Phase 2 - Develop,2023,02-01-2023,02-01-2027
+MML-53,Train Testing,Vijay Sharma,Andheri-Bandra,Rolling Stock,"45,05,06,900.00",High,Completed,1,100,40,Phase 1 - Explore,2023,05-01-2023,05-01-2027
+MML-54,Testing and Commissioning,K.S.Gupta,Kamraj Nagar - DN Nagar,S&T,"40,13,28,300.00",Low,On - Hold,0.79,79,58,Phase 4 - Implement,2023,07-01-2023,07-01-2027
+MML-55,Train Testing,Vijay Sharma,Dahisar-Andheri,Rolling Stock,"31,07,45,600.00",Low,Cancelled,0.82,82,36,Phase 2 - Develop,2023,07-01-2023,07-01-2027
+MML-56,Installation,Ajay Kumar Agarwal,Dahisar - Kamraj Nagar,Track,"5,64,38,580.00",High,Cancelled,0.87,87,34,Phase 5 - Measure,2023,07-01-2023,07-01-2025
+MML-57,Dynamic Testing,Vijay Sharma,Dahisar - Kamraj Nagar,Rolling Stock,"46,12,92,500.00",High,Cancelled,0.9,90,45,Phase 4 - Implement,2023,08-01-2023,08-01-2027
+MML-58,Architecture,Y.N.Kapoor,Andheri-Bandra,Civil,"59,49,33,700.00",Medium,Cancelled,0.87,87,33,Phase 4 - Implement,2023,08-01-2023,08-01-2026
+MML-59,Procurement,K.S.Gupta,Dahisar-Andheri,S&T,"25,11,18,900.00",High,On - Hold,0.91,91,38,Phase 5 - Measure,2023,09-01-2023,09-01-2027
+MML-60,Installation,Ajay Kumar Agarwal,Dahisar-Andheri,Track,"2,74,52,870.00",High,On - Hold,0.78,78,42,Phase 2 - Develop,2023,09-01-2023,09-01-2025
+MML-61,Procurement,K.S.Gupta,Kamraj Nagar - DN Nagar,S&T,"25,78,74,800.00",Low,On - Hold,0.91,91,46,Phase 5 - Measure,2023,09-01-2023,09-01-2027
+MML-62,Dynamic Testing,Vijay Sharma,Dahisar - Kamraj Nagar,Rolling Stock,"28,06,51,200.00",Low,In - Progress,0.8,80,44,Phase 2 - Develop,2023,09-01-2023,09-01-2027
+MML-63,Installation,K.S.Gupta,Dahisar - Kamraj Nagar,S&T,"32,61,24,900.00",High,Completed,1,100,35,Phase 2 - Develop,2023,11-01-2023,11-01-2027
+MML-64,Girder Construction,Y.N.Kapoor,Dahisar - Kamraj Nagar,Civil,"51,56,29,100.00",High,Completed,1,100,45,Phase 5 - Measure,2023,11-01-2023,11-01-2026
+MML-65,Testing and Commissioning,Shailja Dixit,Dahisar - Kamraj Nagar,Electrical,"3,01,40,530.00",Low,Completed,1,100,44,Phase 3 - Plan,2023,11-01-2023,11-01-2025
+MML-66,Procurement,Shailja Dixit,Dahisar - Kamraj Nagar,Electrical,"4,56,95,040.00",Low,In - Progress,0.73,73,56,Phase 4 - Implement,2023,11-01-2023,11-01-2025
+MML-67,Installation,Ajay Kumar Agarwal,Dahisar-Andheri,Track,"2,42,93,950.00",Low,In - Progress,0.74,74,63,Phase 1 - Explore,2023,12-01-2023,12-01-2025
+MML-68,Installation,Shailja Dixit,Dahisar-Andheri,Electrical,"4,60,30,610.00",Medium,Completed,1,100,69,Phase 3 - Plan,2024,02-01-2024,02-01-2026
+MML-69,Procurement,Shailja Dixit,Kamraj Nagar - DN Nagar,Electrical,"4,50,50,460.00",High,Cancelled,0.78,78,44,Phase 4 - Implement,2024,03-01-2024,03-01-2026
+MML-70,Procurement,K.S.Gupta,Dahisar - Kamraj Nagar,S&T,"27,06,27,900.00",Medium,In - Progress,0.86,86,44,Phase 4 - Implement,2024,04-01-2024,04-01-2028
+MML-71,Train Manufacturing,Vijay Sharma,Dahisar - Kamraj Nagar,Rolling Stock,"44,26,47,500.00",High,Cancelled,0.83,83,45,Phase 3 - Plan,2024,07-01-2024,07-01-2028
+MML-72,Train Manufacturing,Vijay Sharma,Dahisar - Kamraj Nagar,Rolling Stock,"54,18,93,300.00",Medium,On - Hold,0.91,91,46,Phase 4 - Implement,2024,08-01-2024,08-01-2028
+MML-73,Procurement,K.S.Gupta,Kamraj Nagar - DN Nagar,S&T,"32,42,64,700.00",Low,Completed,1,100,40,Phase 3 - Plan,2024,09-01-2024,09-01-2028
+MML-74,Procurement,Shailja Dixit,Dahisar - Kamraj Nagar,Electrical,"2,41,83,010.00",High,Cancelled,0.75,75,50,Phase 4 - Implement,2024,09-01-2024,09-01-2026
+MML-75,Procurement,K.S.Gupta,Dahisar - Kamraj Nagar,S&T,"42,58,44,000.00",Medium,In - Progress,0.85,85,57,Phase 1 - Explore,2024,10-01-2024,10-01-2028
+MML-76,Finishing,Y.N.Kapoor,Kamraj Nagar - DN Nagar,Civil,"40,09,74,400.00",High,Cancelled,0.8,80,65,Phase 4 - Implement,2024,10-01-2024,10-01-2027
+MML-77,Train Manufacturing,Vijay Sharma,Kamraj Nagar - DN Nagar,Rolling Stock,"54,61,75,600.00",Low,Cancelled,0.84,84,41,Phase 2 - Develop,2024,10-01-2024,10-01-2028
+MML-78,Procurement,Ajay Kumar Agarwal,Dahisar - Kamraj Nagar,Track,"3,52,66,300.00",Medium,Completed,1,100,48,Phase 3 - Plan,2024,11-01-2024,11-01-2026
+MML-79,Procurement,Ajay Kumar Agarwal,Dahisar - Kamraj Nagar,Track,"5,73,20,060.00",High,Completed,1,100,67,Phase 2 - Develop,2024,11-01-2024,11-01-2026
+MML-80,Procurement,Ajay Kumar Agarwal,Dahisar-Andheri,Track,"2,78,14,080.00",Low,Cancelled,0.73,73,34,Phase 5 - Measure,2024,11-01-2024,11-01-2026
+MML-81,Procurement,K.S.Gupta,Dahisar - Kamraj Nagar,S&T,"36,78,09,100.00",Medium,On - Hold,0.89,89,46,Phase 2 - Develop,2024,12-01-2024,12-01-2028
+MML-82,Dynamic Testing,Vijay Sharma,Andheri-Bandra,Rolling Stock,"44,34,67,900.00",High,On - Hold,0.86,86,35,Phase 5 - Measure,2024,12-01-2024,12-01-2028
+MML-83,Girder Construction,Y.N.Kapoor,Andheri-Bandra,Civil,"36,52,61,100.00",Low,Completed,1,100,56,Phase 5 - Measure,2024,12-01-2024,12-01-2027
+MML-84,Train Manufacturing,Vijay Sharma,Andheri-Bandra,Rolling Stock,"29,06,57,200.00",High,Completed,1,100,68,Phase 5 - Measure,2025,01-01-2025,01-01-2029
+MML-85,Procurement,Shailja Dixit,Andheri-Bandra,Electrical,"4,28,63,050.00",High,On - Hold,0.81,81,31,Phase 4 - Implement,2025,01-01-2025,01-01-2027
+MML-86,Train Testing,Vijay Sharma,Andheri-Bandra,Rolling Stock,"51,50,36,600.00",Low,On - Hold,0.72,72,52,Phase 3 - Plan,2025,04-01-2025,04-01-2029
+MML-87,Train Testing,Vijay Sharma,Dahisar - Kamraj Nagar,Rolling Stock,"56,20,82,200.00",High,Completed,1,100,48,Phase 5 - Measure,2025,04-01-2025,04-01-2029
+MML-88,Procurement,Ajay Kumar Agarwal,Dahisar - Kamraj Nagar,Track,"3,68,55,800.00",Low,On - Hold,0.92,92,22,Phase 4 - Implement,2025,05-01-2025,05-01-2027
+MML-89,Testing and Commissioning,Shailja Dixit,Andheri-Bandra,Electrical,"2,68,14,200.00",Medium,Completed,1,100,35,Phase 2 - Develop,2025,06-01-2025,06-01-2027
+MML-90,Procurement,K.S.Gupta,Kamraj Nagar - DN Nagar,S&T,"48,05,05,600.00",High,Cancelled,0.79,79,32,Phase 5 - Measure,2025,06-01-2025,06-01-2029
+MML-91,Procurement,K.S.Gupta,Andheri-Bandra,S&T,"26,93,47,100.00",Low,Completed,1,100,44,Phase 2 - Develop,2025,06-01-2025,06-01-2029
+MML-92,Procurement,Ajay Kumar Agarwal,Dahisar-Andheri,Track,"5,88,06,100.00",High,Completed,1,100,58,Phase 5 - Measure,2025,07-01-2025,07-01-2027
+MML-93,Dynamic Testing,Vijay Sharma,Dahisar-Andheri,Rolling Stock,"39,32,72,400.00",High,In - Progress,0.81,81,44,Phase 5 - Measure,2025,07-01-2025,07-01-2029
+MML-94,Station Girder Construction,Y.N.Kapoor,Andheri-Bandra,Civil,"49,08,31,100.00",Medium,In - Progress,0.74,74,43,Phase 3 - Plan,2025,08-01-2025,08-01-2028
+MML-95,Train Manufacturing,Vijay Sharma,Kamraj Nagar - DN Nagar,Rolling Stock,"52,59,43,600.00",Medium,On - Hold,0.8,80,52,Phase 2 - Develop,2025,08-01-2025,08-01-2029
+MML-96,Procurement,K.S.Gupta,Dahisar - Kamraj Nagar,S&T,"47,90,41,700.00",Medium,In - Progress,0.73,73,41,Phase 4 - Implement,2025,09-01-2025,09-01-2029
+MML-97,Dynamic Testing,Vijay Sharma,Andheri-Bandra,Rolling Stock,"42,83,48,100.00",Low,Completed,1,100,60,Phase 3 - Plan,2025,11-01-2025,11-01-2029
+MML-98,Testing and Commissioning,Shailja Dixit,Dahisar-Andheri,Electrical,"4,60,65,750.00",High,In - Progress,0.77,77,34,Phase 4 - Implement,2025,11-01-2025,11-01-2027
+MML-99,Procurement,Ajay Kumar Agarwal,Andheri-Bandra,Track,"5,05,44,820.00",High,In - Progress,0.83,83,23,Phase 3 - Plan,2025,12-01-2025,12-01-2027
